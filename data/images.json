@@ -1,12 +1,20 @@
 {
-  "updated_at": "2025-07-30T13:09:08.801Z",
+  "updated_at": "2025-07-30T18:59:56.017Z",
   "images": [
+    {
+      "public_id": "IMG_3606_ombuue",
+      "url": "https://res.cloudinary.com/dtnpt7fsz/image/upload/v1753884166/IMG_3606_ombuue.jpg",
+      "created_at": "2025-07-30T14:02:46+00:00",
+      "taken_at": null,
+      "title": null,
+      "alt": null
+    },
     {
       "public_id": "IMG_6395_mogh9w",
       "url": "https://res.cloudinary.com/dtnpt7fsz/image/upload/v1753876843/IMG_6395_mogh9w.heic",
       "created_at": "2025-07-30T12:00:43+00:00",
       "taken_at": null,
-      "title": null,
+      "title": "미네",
       "alt": null
     },
     {
